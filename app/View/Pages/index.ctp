@@ -1,1 +1,1 @@
-Portal do ADMIN.
+Portal do SITE.
